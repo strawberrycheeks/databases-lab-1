@@ -14,7 +14,7 @@
 
 Окно редактирования и добавления файлов:
 
-![image](https://github.com/strawberrycheeks/databases-lab-1/blob/master/image/screenshot3.png)
+![image](https://github.com/strawberrycheeks/databases-lab-1/blob/main/image/screenshot3.png)
 
 Простой пример, как редактировать таблицу в MySQL на PHP (+ загружать файлы на сайт).
 
